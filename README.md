@@ -1,6 +1,7 @@
 <img src="https://github.com/danielcintori/Password/blob/main/exemple%20screen.png">
 Link: password-generator-vanilla-css.netlify.app
-# Password Generator Web App
+
+## Password Generator Web App
 
 This is a simple JavaScript web application that generates and displays random passwords. Users can click a button to generate a new password, and they can click on the displayed password to copy it to their clipboard. Below is a brief description of the key components and how to use this application.
 
